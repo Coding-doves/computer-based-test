@@ -1,19 +1,4 @@
 
-
-const i = new Date();
-document.getElementById("pen").innerHTML=i;
-
-
-var enter1 = document.getElementById('enter1')
-
-enter1.onclick = function () {
-	var q1div = document.querySelector('.s-q1');
-	logindiv.style.display="none";
-	q1div.style.display="block";
-
-}
-
-
 var btn1 = document.getElementById('btn1')
 
 btn1.onclick = function () {
