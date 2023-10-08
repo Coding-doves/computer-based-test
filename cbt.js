@@ -7,7 +7,6 @@ document.getElementById("pen").innerHTML=i;
 var enter1 = document.getElementById('enter1')
 
 enter1.onclick = function () {
-	var logindiv = document.querySelector('.login');
 	var q1div = document.querySelector('.s-q1');
 	logindiv.style.display="none";
 	q1div.style.display="block";
