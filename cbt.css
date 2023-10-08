@@ -20,7 +20,11 @@ button{
 	border-radius: 10px;
 	margin-left: 10px;
 }
-
+.btn{
+        display: flex;
+	gap: 0.6rem;
+	margin-top: .7rem;
+}
 
 .s-q1{
 	display: block;
