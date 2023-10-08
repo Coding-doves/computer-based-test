@@ -24,9 +24,17 @@ button{
 }
 
 
-.s-q1{ display: block; }
+.s-q1{
+	display: block;
+	background: white;
+	min-height: 200px;
+	padding: 20px;
+	border-radius: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
 
-.s-q1, .s-q2, .s-q3, .s-q4, .s-q5,
+.s-q2, .s-q3, .s-q4, .s-q5,
 .s-q6, .s-q7, .s-q8, .s-q9, .s-q10, 
 .s-q11, .s-q12, .s-q13, .s-q14, .s-q15, 
 .s-q16, .s-q17, .s-q18, .s-q19, .s-q20,
