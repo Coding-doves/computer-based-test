@@ -4,20 +4,6 @@
 
 h1{
 	color: white;
-}
-
-.tt{height: 20px;
-		width: 12rem;
-		background: white;
-		padding: 10px;
-		border-radius: 10px;
-		right: 20px;
-	    	top: 15vh;
-		position: fixed;
-	}	
-
-span{
-	background: white;
 }	
 
 input{
