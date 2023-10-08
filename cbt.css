@@ -28,10 +28,10 @@ button{
 	display: block;
 	background: white;
 	min-height: 200px;
-	padding: 20px;
+	padding: 10px;
 	border-radius: 10px;
-	margin-left: 40px;
-	margin-right: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 .s-q2, .s-q3, .s-q4, .s-q5,
