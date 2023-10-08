@@ -2,7 +2,7 @@ body{
 	background: #3F4E5F;
 	color: green;
 }
-h1{ color: white; }
+body.h1{ color: white; }
 
 input{
 	margin-left:35px;
@@ -18,7 +18,6 @@ button{
 	width: 70px;
 	background: #fff;
 	border-radius: 10px;
-	left: 50%;
 	position: relative;
 	display: flex;
 	margin-left: 10px;
