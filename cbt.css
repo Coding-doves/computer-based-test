@@ -3,10 +3,6 @@
 	color: green;
 }
 
-h1{
-	color: white;
-}	
-
 input{
 	margin-left:35px;
 	margin-top: 10px;
@@ -41,12 +37,12 @@ button{
 .s-q41, .s-q42, .s-q43, .s-q44, .s-q45, 
 .s-q46, .s-q47, .s-q48, .s-q49, .s-q50, .sum{
 	display: none;
-	background: floralwhite;
-	height: 200px;
+	background: white;
+	min-height: 200px;
 	padding: 20px;
 	border-radius: 10px;
-	margin-left: 70px;
-	margin-right: 70px;
+	margin-left: 40px;
+	margin-right: 40px;
 }
 
 .sum{
